@@ -1,0 +1,11 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.image {
+  height: 200px;
+  width: 300px;
+  border-radius: 5px;
+}
